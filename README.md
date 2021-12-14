@@ -1,5 +1,5 @@
 # Bus-Exercise
-This goal of this exercise was to take advantage of MapBox API and JSON data of Boston bus routes to track the bus stops between MIT and Harvard.
+The goal of this exercise was to take advantage of MapBox API and JSON data of Boston bus routes to track the bus stops between MIT and Harvard.
 
 # Installation
 In order to view this demonstration, you will need to "Fork" a copy of this repository you your GitHub. Once you have done that you can "Clone" a copy of the repository to your local computer. When you have the files locally, you can open the index.html and begin using the program.
